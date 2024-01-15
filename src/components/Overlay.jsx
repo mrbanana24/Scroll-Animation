@@ -40,14 +40,14 @@ export const Overlay = () => {
       <div class="w-screen">
         <Section opacity={opacityFirstSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            Hello, I'm Wawa Sensei
+            Wellcome to Autogestion UCC! 🎉
           </h1>
-          <p className="text-gray-500">Welcome to my beautiful portfolio</p>
-          <p className="mt-3">I know:</p>
+          <p className="text-gray-500">The best university of Cordoba</p>
+          <p className="mt-3">You may be interested:</p>
           <ul className="leading-9">
-            <li>🧑‍💻 How to code</li>
-            <li>🧑‍🏫 How to learn</li>
-            <li>📦 How to deliver</li>
+            <li>📦 Campus Virtual UCC </li>
+            <li>🧑‍🏫 Libros electronicos </li>
+            <li>🧑‍💻 Consulta Haberes </li>
           </ul>
           <p className="animate-bounce  mt-6">↓</p>
         </Section>
@@ -78,7 +78,7 @@ export const Overlay = () => {
         </Section>
         <Section opacity={opacityLastSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            🤙 Call me maybe?
+            🤙 Call UCC
           </h1>
           <p className="text-gray-500">
             I'm very expensive but you won't regret it

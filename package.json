@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.4",
+    "@mui/material": "^5.15.4",
     "@react-three/drei": "^9.56.11",
     "@react-three/fiber": "^8.10.1",
     "gsap": "^3.11.4",
